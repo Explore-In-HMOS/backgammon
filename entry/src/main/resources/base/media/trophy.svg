@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- Trophy cup -->
+  <path d="M14 6 L34 6 L32 22 Q30 30 24 32 Q18 30 16 22 Z" fill="#C8A060"/>
+  <!-- Cup shine -->
+  <path d="M18 8 L22 8 L21 20 Q20 24 18 26" fill="none" stroke="#FFE080" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <!-- Handles -->
+  <path d="M14 10 Q7 10 7 17 Q7 24 14 24" fill="none" stroke="#C8A060" stroke-width="3" stroke-linecap="round"/>
+  <path d="M34 10 Q41 10 41 17 Q41 24 34 24" fill="none" stroke="#C8A060" stroke-width="3" stroke-linecap="round"/>
+  <!-- Stem -->
+  <rect x="21" y="32" width="6" height="7" rx="1" fill="#A08040"/>
+  <!-- Base -->
+  <rect x="14" y="39" width="20" height="4" rx="2" fill="#A08040"/>
+  <!-- Star on cup -->
+  <polygon points="24,13 25.5,17.5 30,17.5 26.5,20 27.8,24.5 24,22 20.2,24.5 21.5,20 18,17.5 22.5,17.5" fill="#FFD700" opacity="0.9"/>
+</svg>

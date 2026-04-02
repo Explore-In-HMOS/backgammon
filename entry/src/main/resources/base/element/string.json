@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "backgammon_wearable"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Wearable Backgammon Game"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "backgammon_wearable"
+    },
+    {
+      "name": "app_name",
+      "value": "backgammon_wearable"
+    }
+  ]
+}
