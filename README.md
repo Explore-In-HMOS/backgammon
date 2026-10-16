@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # Backgammon Wearable
 Backgammon Wearable is a fully-featured Backgammon game built for HarmonyOS smartwatches. Play against an AI opponent or pass the device between two players, complete with match scoring, a doubling cube, haptic feedback, and multiple board themes.
